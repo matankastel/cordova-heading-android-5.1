@@ -1,0 +1,17 @@
+{
+    "name": "Heading",
+    "version": "0.0.1",
+    "description": "getDevice Heading",
+    "cordova": {
+      "id": "cordova-plugin-heading",
+      "platforms": [
+        "android"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "author": "Matan Kastel",
+    "license": "ISC"
+  }
